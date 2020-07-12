@@ -49,4 +49,4 @@ Submission
 ---------------------------
 * create a zip file containing your C/C++ code, vertex shader, fragment shader, a readme text file (.txt). 
 * In the readme file document the features and functionality of the application, and anything else you want the grader to know
-i.e. control keys, keyboard/mouse shortcuts, etc.
+i.e. control keys, keyboard/mouse shortcuts, etc
